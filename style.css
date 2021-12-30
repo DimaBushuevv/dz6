@@ -1,0 +1,91 @@
+
+a{
+    text-decoration: none;
+    color: black;
+}
+.header{
+    border: 1px solid gray;
+}
+.li-class{
+    display: inline-block;
+}
+.div-class{
+    position: absolute;
+    right: 10px;
+}
+.nav-1{
+    position: relative;
+    left: 500px;
+    top: -10px;
+    margin-bottom: 20px;
+}
+.photo{
+    height: 50px;
+    width: 50px;
+    position: absolute;
+    left: 10px;
+}
+.link-active{
+    text-decoration: underline;
+    color: blueviolet;
+}
+.block{
+    height: 400px;
+    width: 400px;
+    background: royalblue;
+    margin-left: 100px;
+    display: inline-block;
+    position: relative;
+    bottom: -100px;
+}
+.inner{
+    display: inline block;
+    height: 100px; 
+    width:100px ;
+    background: red;
+    position: absolute;
+    top: 60px; 
+    left: 10px; 
+}
+.inner-1{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    top: -100px;
+    right: 100px;
+ 
+}
+.inner-2{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    bottom: 0px;
+    right: 0px;
+
+}
+.inner-4{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    top: -0px;
+    right: -100px;
+}
+.inner-5{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    top: -100px;
+    right: 0px;
+}
+.inner-6{
+    height: 100px;
+    width: 100px;
+    background: red;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+}
